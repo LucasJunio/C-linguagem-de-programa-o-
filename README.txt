@@ -1,4 +1,4 @@
-# C (linguagem de programação)
+C (linguagem de programação)
 
 ATENÇÃO!
 
