@@ -1,6 +1,8 @@
-ATEN«√O!
+# C (linguagem de programa√ß√£o)
 
-Os exercÌcios implementados s„o de cunho did·tico, a car·ter de sinalizar o conhecimento, 
-domÌnio e capacidade de manipulaÁ„o da linguagem de programaÁ„o, logo os softwares n„o 
-dispıem de todas caracterÌsticas que os imunize de erros em seguranÁa, entrada distinta da esperada,
-dentre outros possÌveis aspectos que possam causar falhas no funcionamento do software.
+ATEN√á√ÉO!
+
+Os exerc√≠cios implementados s√£o de cunho did√°tico, a car√°ter de sinalizar o conhecimento, 
+dom√≠nio e capacidade de manipula√ß√£o da linguagem de programa√ß√£o, logo os softwares n√£o 
+disp√µem de todas caracter√≠sticas que os imunize de erros em seguran√ßa, entrada distinta da esperada,
+dentre outros poss√≠veis aspectos que possam causar falhas no funcionamento do software.
