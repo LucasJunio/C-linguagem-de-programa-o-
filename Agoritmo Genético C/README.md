@@ -2,9 +2,9 @@
 
 > Conceitos envolvidos:
 
-Linguagem de programação C
-Biologia
-Bioinformática
+- Linguagem de programação C
+- Biologia
+- Bioinformática
 
 O problema é fazer um algoritmo genético para minimizar a função 'f(x) = x²' o máximo possível,
 com 'x' no intervalo inteiro de [-31,31], observando o exercício concluímos logo que o menor valor
