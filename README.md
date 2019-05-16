@@ -1,7 +1,7 @@
 ﻿
 # C (linguagem de programação)
 
-ATENÇÃO!
+> ATENÇÃO!
 
 Os exercícios implementados são de cunho didático, a caráter de sinalizar o conhecimento, 
 domínio e capacidade de manipulação da linguagem de programação, logo os softwares não 
