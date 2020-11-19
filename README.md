@@ -1,8 +1,27 @@
-# C (linguagem de programação)
+# Atividade: minimizar uma função 'f(x) = x²', com intervalo inteiro [-31,31], conforme número de iterações determinada pelo usuário.
 
-> ATENÇÃO!
+> Conceitos envolvidos:
 
-Os exercícios implementados são de cunho didático, a caráter de sinalizar o conhecimento, domínio e capacidade de manipulação da linguagem de programação, logo os softwares não dispõem de todas características que os imunize de erros em segurança, entrada distinta da esperada,
-dentre outros possíveis aspectos que possam causar falhas no funcionamento do software.
+- Linguagem de programação C
+- Biologia
+- Bioinformática
 
-> Confira também meu perfil na plataforma URI JUDGE ONLINE | PROBLEMS & CONTESTS onde eu tenho mais de 100 exercícios resolvidos na liguangem C - link: https://www.urionlinejudge.com.br/judge/pt/profile/67750?page=3
+O problema é fazer um algoritmo genético para minimizar a função 'f(x) = x²' o máximo possível,
+com 'x' no intervalo inteiro de [-31,31], observando o exercício concluímos logo que o menor valor
+inteiro dentro desse intervalo é zero (0).
+
+O funcionamento do software é gerar uma matriz (população) arbitrária de vetores (cromossomos)
+binário (vetores podem ter somente 0 ou 1). O tamanho desta população foi limitada a 6, o que quer
+dizer que é uma matriz 6x6, composta de 6 vetores, vetores também de tamanho 6, no entanto o índice
+zero (0) de cada vetor representa o bit de sinal, se um (1) n° negativo, se zero (0) positivo.
+
+Os outros 5 índices (bits), representam o intervalo inteiro [0,31] em binário, de acordo com a 
+conversão para inteiro. 
+
+Etapas da implementação do software:
+
+- Coleta do número de iterações do algoritmo genético (critério de parada);
+- População inicial / conversão binário-inteiro;
+- Cáculo do fitness;
+- Operação de cruzamento (cross-over);
+- Operação de mutação.
